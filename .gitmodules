@@ -1,0 +1,3 @@
+[submodule "practice_sub"]
+	path = practice_sub
+	url = https://github.com/ming392/practice_sub.git
